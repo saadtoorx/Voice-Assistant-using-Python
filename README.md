@@ -51,7 +51,7 @@ Voice-Assistant/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/saadtoorx/Voice-Assistant.git
+git clone https://github.com/saadtoorx/Voice-Assistant-using-Python.git
 cd Voice-Assistant
 ```
 
